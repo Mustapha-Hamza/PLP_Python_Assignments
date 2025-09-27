@@ -1,4 +1,5 @@
-# Assignment 5: Design Your Own Class 🏗️
+# Assignment 5
+# Activity 1: Design Your Own Class 🏗️
 
 # Parent class
 class Device:
